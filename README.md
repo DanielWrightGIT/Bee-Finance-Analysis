@@ -14,7 +14,11 @@ The purpose of this project is to gain insight into the financial effects of the
 The data was retrieved in the form of a CSV file from Kaggle.com and provided by the National Agricultural Statistics Service of the USDA https://www.kaggle.com/datasets/mohitpoudel/us-honey-production-19952021.
 
 # Methodology
-- Python: EDA and cleaning of data 
+- Python: EDA, modification, and cleaning of data 
 - Tableau: Reporting
 
 # EDA
+Initial exploration of the data shows that there are no missing values and the datatypes are correct.
+
+#Modification of Data 
+The average price of honey 
