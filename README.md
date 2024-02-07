@@ -52,9 +52,9 @@ Initial exploration of the data shows that there are no missing values and the d
 ![tableau viz](https://github.com/DanielWrightGIT/Bee-Finance-Analysis/blob/main/intiial.PNG)
 
 
-###Interpretation of Results
+### Interpretation of Results
 Observation of the data trends shows an obvious decline of bee population and honey production. It would be unwise for potential investors to divert funds into the honey industry as stocks are being liquidated frequently by major holders. We likely will not see an return in profits until the reason for population decline is accurately diagnosed and addressed by the relevant authorities. One potential solution would be to create a highly controlled environment for the purpose of stable honey production as most production facilities are outdoors and subject to external influences from nature such as disease and pesticides. 
 
-###References
+### References
 (1): Randall, Brianna. “The Value of Birds and Bees.” Farmers.gov, 22 June 2020,
 www.farmers.gov/blog/value-birds-and-bees
