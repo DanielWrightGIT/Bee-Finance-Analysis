@@ -26,5 +26,15 @@ Initial exploration of the data shows that there are no missing values and the d
 - Column "colonies_number": values were scaled for improved visibility in plotting. All values were multiplied by 0.001 (ex: 1500.0 -> 15.0)
 - Column "average_price": values were scaled to better reflect the price of honey by the pound (ex: intitial value of 86.0 -> 8.60)
 
-# Visualization
- ![Decline of production levels](https://github.com/DanielWrightGIT/Bee-Finance-Analysis/blob/main/prod%20decline.PNG)
+# Visualizations
+Figure 1 shows the decline of production levels in the top 5 honey producing states
+![Decline of production levels](https://github.com/DanielWrightGIT/Bee-Finance-Analysis/blob/main/prod%20decline.PNG)
+
+Figure 2 shows stocks held by producers. The color represents the average price of honey.
+![stock](https://github.com/DanielWrightGIT/Bee-Finance-Analysis/blob/main/stocks.PNG)
+
+Figure 3 shows the average colony yield in LBS per state (continental US only)
+![colony yield](https://github.com/DanielWrightGIT/Bee-Finance-Analysis/blob/main/colony%20yield.PNG)
+
+Figure 4 shows the combined visualizations in a tableau dashboard. The year slider can be altered to show custom time ranges and is applied to all of the visualizations simultaneously. 
+![tableau viz](https://github.com/DanielWrightGIT/Bee-Finance-Analysis/blob/main/intiial.PNG)
