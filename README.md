@@ -1,11 +1,12 @@
 # Bee-Finance-Analysis
 
 ## Table of Contents
-1. [project Overview](#project-overview)
-2. Data and Analysis
-3. Discussion
-4. Recommendations
-5. References
+1. [Project Overview](#project-overview)
+2. [Data](#data)
+3. [Methodology](#Methodology)
+4. [EDA](#EDA)
+5. [Modification of Data](#modification-of-data)
+6. [Visualizations](#visualizations)
 
 ### Project Overview
 The purpose of this project is to gain insight into the financial effects of the declining honey bee (*Apis Mellifera Linnaeus*) population in the United States. "Honey bees alone pollinate 80 percent of all flowering plants, including more than 130 types of fruits and vegetables” (1) making them a keystone species and essential for the reproduction of non-asexual flora. 
