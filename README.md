@@ -27,4 +27,4 @@ Initial exploration of the data shows that there are no missing values and the d
 - Column "average_price": values were scaled to better reflect the price of honey by the pound (ex: intitial value of 86.0 -> 8.60)
 
 # Visualization
- ![Decline of production levels](Bee-Finance-Analysis/prod decline.PNG)
+ ![Decline of production levels](https://github.com/DanielWrightGIT/Bee-Finance-Analysis/blob/main/prod%20decline.PNG)
