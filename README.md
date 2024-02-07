@@ -20,5 +20,11 @@ The data was retrieved in the form of a CSV file from Kaggle.com and provided by
 # EDA
 Initial exploration of the data shows that there are no missing values and the datatypes are correct.
 
-#Modification of Data 
-The average price of honey 
+# Modification of Data
+- Column "year": transformed to string dtype
+- Column "unnamed: 0" removed as it is redundant
+- Column "colonies_number": values were scaled for improved visibility in plotting. All values were multiplied by 0.001 (ex: 1500.0 -> 15.0)
+- Column "average_price": values were scaled to better reflect the price of honey by the pound (ex: intitial value of 86.0 -> 8.60)
+
+# Visualization
+ ![Decline of production levels](prod decline.PNG)
