@@ -36,6 +36,8 @@ Initial exploration of the data shows that there are no missing values and the d
 
 
 ### Visualizations
+Visualizations can be viewed and interacted with by downloading the .twb file included in the repository. Static visualizations are included for convenience. 
+
 -  *Figure 1* shows the decline of production levels in the top 5 honey producing states
 ![Decline of production levels](https://github.com/DanielWrightGIT/Bee-Finance-Analysis/blob/main/prod%20decline.PNG)
 
